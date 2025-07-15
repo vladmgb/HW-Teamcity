@@ -26,3 +26,28 @@
 Проверил артефакты в Nexus.
 
 <img width="1302" height="686" alt="image" src="https://github.com/user-attachments/assets/b3ca83d5-b58e-4fd1-8761-c07f0a431164" />
+
+Смигрировал `build configuration` в [репозиторий](https://github.com/vladmgb/example-teamcity/tree/master/.teamcity).
+
+Создал новую ветку feature/add_reply.
+
+<img width="914" height="626" alt="image" src="https://github.com/user-attachments/assets/fe58f561-a0fb-47de-840c-a7f5d07ba166" />
+
+Добавил новый метод для приложения в main и test
+
+<img width="1019" height="501" alt="image" src="https://github.com/user-attachments/assets/32acef31-9f58-4d3c-88d4-972f7c62e8e4" />
+
+
+<img width="963" height="688" alt="image" src="https://github.com/user-attachments/assets/75754239-343e-4912-9da7-98db79492f71" />
+
+
+Изменил версию в pom.xml и запушил все в новую ветку feature/add_reply.
+
+В Teamcity сборка запустилась автоматически по ветке feature/add_reply
+
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/2123b390-c33f-4f03-bfb1-bc92eebd0902" />
+
+
+
+
+
